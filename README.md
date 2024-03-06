@@ -6,6 +6,8 @@ to play around with the port and connect other devices too. When ordering the bo
 cause I'm cheap and its good enough for tests.
 
 Connect EXTIN to GND to enable the Port when in use to let the gamecube know a device is in.
+ 
+ 2.54mm 90 angle 2 row header for the pins.
 
 
 ![2020_1001_200958_006](https://github.com/silverstee1/SP1-Breakout-PCB/assets/54997238/439a8bb5-cc07-468c-9574-b0b23b0f8c5c)
